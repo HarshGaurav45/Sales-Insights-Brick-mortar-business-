@@ -1,4 +1,13 @@
-Sales Insights Data Analysis Project
+Sales Insights - Brick and mortar business 
+
+•  Created an automated dashboard for a computer hardware business facing challenges in scaling within a dynamically
+   changing market and lacking actionable insights.
+
+•  Performed data analysis using SQL and Power BI to track revenue growth, year-over-year (YOY) trends, and region-wise
+   sales performance.
+
+•  The dashboard enabled quick, data-informed decisions, effectively displaying sales trends and potentially raising revenue
+   by at least 7 percent in the next quarter.
 
 Data Analysis Using SQL
 
