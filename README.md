@@ -10,7 +10,7 @@
    by at least 7 percent in the next quarter.
 
 # Dashboard PPT
-https://github.com/HarshGaurav45/Sales-Insights-Brick-mortar-business-/blob/main/Sales%20insight.pdf
+[Sales insight.pdf](https://github.com/user-attachments/files/16706165/Sales.insight.pdf)
 
    
 
