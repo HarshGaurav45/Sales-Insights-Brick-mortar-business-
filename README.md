@@ -1,4 +1,4 @@
-Sales Insights - Brick and mortar business 
+# Sales Insights - Brick and mortar business 
 
 •  Created an automated dashboard for a computer hardware business facing challenges in scaling within a dynamically
    changing market and lacking actionable insights.
@@ -9,7 +9,12 @@ Sales Insights - Brick and mortar business
 •  The dashboard enabled quick, data-informed decisions, effectively displaying sales trends and potentially raising revenue
    by at least 7 percent in the next quarter.
 
-Data Analysis Using SQL
+# Dashboard PPT
+https://github.com/HarshGaurav45/Sales-Insights-Brick-mortar-business-/blob/main/Sales%20insight.pdf
+
+   
+
+# Data Analysis Using SQL
 
 1. Show all customer records
 
